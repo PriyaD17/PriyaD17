@@ -5,7 +5,6 @@ I am Priyadharsani, a student and a passionate coder who loves to solve problems
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Open Source contributions, DSA
 - 🌱 I’m currently learning MERN Stack, Rust, Dev Ops, Go
--  💬 Ask me about Multitasking, Grieving and Poetry
 
   ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/priyadharsani-ganapathi-4521b5255/) 
