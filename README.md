@@ -8,16 +8,9 @@ A proud advocate of the **ask-questions-no-matter-how-stupid-they-sound** philos
 
 ## 💻 Tech Stack
 - 🖥️ Languages: `JavaScript`, `Golang`, `Rust`, `C++`
-- 🌐 Web Dev: `React`, `Vite`, `CSS Wizardsry`
-- 🔐 Security Geek: `Blockchain`
+- 🌐 Web Dev: `React`, `Tailwind`
 - ⚡ Fun Fact: My codes are just like my jokes—*funny to some, lame to others*—but guess what? They always work!💡
-
-
- ## 🎯 Currently Working On:
 - 🌱 **Learning**: `Golang`, `Kubernetes`, `Type Script`
-- 🚀 **Building**: An Expense tracker to help me keep my expenses in check 📋 (and help you too!)
-- 💡 **Contributing**: GWOB (GirlScript Winter of Bitcoin), GSSOC Extd (GirlScript Summer of Code Extended), Hacktoberfest
-- 📚 **Reading**: A self-improvement book to balance life outside the code!
 
 ## 🤖 Let's Connect!
 - To know who I am [Click Here](https://www.linkedin.com/in/priyadharsani-ganapathi-4521b5255/) 
