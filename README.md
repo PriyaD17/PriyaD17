@@ -2,7 +2,7 @@
 
 If you love tech, weird humor, and code that's sometimes more mysterious than clear—well, you've come to the right place. 🙌
 
-I am Priyadharsani - Student by chance, Coder by Choice 🚀
+I am Priyadharsani - I love Tech , Startups and Tech Startups 🚀
 
 A proud advocate of the **ask-questions-no-matter-how-stupid-they-sound** philosophy 🧐 and a connoisseur of the **hit-and-trial method** 🧪—because what's coding without a little experimentation?
 
