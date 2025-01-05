@@ -18,11 +18,11 @@ A proud advocate of the **ask-questions-no-matter-how-stupid-they-sound** philos
 <br> </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaD17&layout=compact&text_color=daf7dc&bg_color=151515)
 
-<br> </br>
 ## 🤖 Let's Connect!
 - To know who I am [Click Here](https://www.linkedin.com/in/priyadharsani-ganapathi-4521b5255/) 
 - To know what I think [Click Here](https://x.com/priyad_g)
---
-
+  
 Nice to meet you!! Lets improve one PR at a time!! <br>
+
+## Profile Views <br>
 ![VisitorCount](https://profile-counter.glitch.me/PriyaD17/count.svg)
