@@ -10,10 +10,10 @@ A proud advocate of the **ask-questions-no-matter-how-stupid-they-sound** philos
 <br></br> <br></br>
 
 ## Tech Stack </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🖥️ Languages: `JavaScript`, `Golang`, `Rust`, `C++`
-- 🌐 Web Dev: `React`, `Tailwind`
+- 🖥️ Languages: `JavaScript`, `Golang`, `Rust`, `C++`, `Python`
+- 🌐 Web Dev: `React`, `Tailwind`, `TypeScript`
 - ⚡ Fun Fact: My codes are just like my jokes—*funny to some, lame to others*—but guess what? They always work!💡
-- 🌱 **Learning**: `Golang`, `Kubernetes`, `Type Script`
+- 🌱 **Learning**: `Docker`, 
 
 <br> </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaD17&layout=compact&text_color=daf7dc&bg_color=151515)
