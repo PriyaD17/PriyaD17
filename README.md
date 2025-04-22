@@ -13,7 +13,7 @@ A proud advocate of the **ask-questions-no-matter-how-stupid-they-sound** philos
 - 🖥️ Languages: `JavaScript`, `Golang`, `Rust`, `C++`, `Python`
 - 🌐 Web Dev: `React`, `Tailwind`, `TypeScript`
 - ⚡ Fun Fact: My codes are just like my jokes—*funny to some, lame to others*—but guess what? They always work!💡
-- 🌱 **Learning**: `Docker`, `ML`
+- 🌱 **Learning**: `Docker`, `ML`, `Web3`
 
 <br> </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaD17&layout=compact&text_color=daf7dc&bg_color=151515)
