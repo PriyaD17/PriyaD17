@@ -25,4 +25,4 @@ A proud advocate of the **ask-questions-no-matter-how-stupid-they-sound** philos
 Nice to meet you!! Lets improve one PR at a time!! <br>
 
 ## Profile Views <br>
-![VisitorCount](https://profile-counter.glitch.me/PriyaD17/count.svg)
+![VisitorCount](https://komarev.com/ghpvc/?username=PriyaD17)
